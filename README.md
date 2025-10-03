@@ -3,7 +3,7 @@
 # Contained Files
 
 - [cookies.md](https://github.com/mlimbo/cep-naa-lab5/blob/main/cookie.md)
-- appetizers.md
+- [appetizers.md](https://github.com/mlimbo/cep-naa-lab5/blob/main/appetizer.md)
 
 ## Cookies.md
 

@@ -16,6 +16,9 @@
 - 2 tablespoons red food coloring or to taste
 - 1 cup dark chocolate chips, or as needed
 
+Gather All Ingredients
+Preheat oven to 350 degrees F (175 degrees C).
+
 
 https://www.allrecipes.com/recipe/241360/red-velvet-chocolate-chip-cookies/
 
